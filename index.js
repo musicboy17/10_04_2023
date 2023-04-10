@@ -18,7 +18,7 @@ var C = 34;
 let F = (9 / 5) * C + 32;
 //var result = 0;
 //result = prompt('Введите температуру :', 36);
-let a = Number(prompt('Введите первое число'));
+//let a = Number(prompt('Введите первое число'));
 console.log('Температура в Цельсиях: ', C);
 console.log('Температура в Фаренгейтах: ', F);
 
